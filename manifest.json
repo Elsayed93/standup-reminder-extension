@@ -1,0 +1,26 @@
+{
+    "manifest_version": 3,
+    "name": "Stand Up Reminder",
+    "version": "1.0.3",
+    "description": "Gentle reminders to stand up and stretch at regular intervals",
+    "icons": {
+        "48": "icons/icon48.png",
+        "128": "icons/r1.png"
+    },
+    "action": {
+        "default_popup": "popup/popup.html",
+        "default_icon": {
+            "16": "icons/icon48.png",
+            "32": "icons/icon48.png"
+        }
+    },
+    "background": {
+        "service_worker": "background.js"
+    },
+    "permissions": [
+        "alarms",
+        "notifications",
+        "storage",
+        "tts"
+    ]
+}
