@@ -5,4 +5,5 @@ I just executed a new Chrome extension idea by using deepseek (vibe coding) — 
 ✅ See a live countdown <br>
 ✅ Simple, private, and works offline <br>
 
-Small breaks = big benefits for your health and focus.
+<br>
+<p>Small breaks = big benefits for your health and focus.</p>
